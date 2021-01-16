@@ -1,0 +1,38 @@
+Error Exist in page because username and password not provided which is expected
+Error Exist in page because passowrd not provided  which is expected
+Alert is present for field First Name
+Alert message is Please fill the First Name
+Alert is present for field Last Name
+Alert message is Please fill the Last Name
+Alert is present for field Email
+Alert message is Please fill the Email
+Alert is present for field wrong Email
+Alert message is Please enter valid Email Id.
+Alert is present for field Mobile Number
+Alert message is Please fill the Mobile No.
+Alert is present for field Wrong Mobile Number
+Alert message is Please enter valid Contact no.
+Alert is present for field city drop down
+Alert message is Please select city
+City mentioned Hyderabad is selected successfully
+Alert is present for field state drop down
+Alert message is Please select state
+State mentioned Telangana is selected successfully
+Default value 1 is selected as expected
+no of rooms selected is 1 as no of guests selected is 1
+no of rooms selected is 2 as no of guests selected is 5
+no of rooms selected is 3 as no of guests selected is 9
+Alert is present for field Card Holder Name
+Alert message is Please fill the Card holder name
+Alert is present for field debit card number
+Alert message is Please fill the Debit card Number
+Alert is present for field CVV
+Alert message is Please fill the CVV
+Alert is present for field Expiration Month
+Alert message is Please fill expiration month
+Alert is present for field Expiration Year
+Alert message is Please fill the expiration year
+
+1 Scenarios (1 passed)
+22 Steps (22 passed)
+0m28.030s
